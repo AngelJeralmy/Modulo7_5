@@ -1,0 +1,11 @@
+{
+  "description": "Desafío cinco, último módulo FS javascript",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5",
+    "pg-format": "^1.0.4"
+  }
+}
